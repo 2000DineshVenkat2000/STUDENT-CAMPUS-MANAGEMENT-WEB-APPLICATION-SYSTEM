@@ -1,0 +1,31 @@
+<?php
+
+session_start();
+//require('database_access.php');
+//include('lostorfoundmailer.php');
+ 
+
+//$con = mysqli_connect(DB_HOST,DB_USER,DB_PASS,DB_NAME); //establishing connection to MySQL DataBase
+//mysqli_select_db($con,'login');
+$msg="";
+$to="bharathkuppu@gmail.com";
+$a = $_POST['a']; 
+$headers = "From Cleanliness Management Team";
+$q = $_POST['q'];	
+echo $q;
+$l= $_POST['l'];
+$p= $_POST['p'];		
+echo $a;
+echo $b;
+echo $c;
+$datetime = date("d-n-Y / h:i:s");	
+$subject ="Thank you for Consideration";
+//$msg .="Thank You for registering on our website on ".$datetime."<br><br>";
+$msg .="---------- Lost and Found Details ---------------";
+$msg .="Location: 	".$a;
+				$msg .="landmark: 	".$l;
+$msg .="Problems: 		".$p;
+
+$msg .="-----------------------------------------------";
+mail($to,$subject,$msg);
+?>
