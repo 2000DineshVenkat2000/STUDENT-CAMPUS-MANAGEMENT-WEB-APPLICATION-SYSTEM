@@ -1,9 +1,9 @@
 # STUDENT-CAMPUS-MANAGEMENT-WEB-APPLICATION-SYSTEM
      A Generalized Web Application, that makes interaction between the Student and the Campus Management System.  
 
-TECHNOLOGY STACKS:-
+**TECHNOLOGY STACKS:-**
 
-FRONTEND              : 
+**FRONTEND**             : 
                         
                         1.HTML
 
@@ -11,18 +11,18 @@ FRONTEND              :
 
                         3.BOOTSTRAP
                         
-CLIENTSIDE SCRIPTING  : 
+**CLIENTSIDE SCRIPTING** : 
         
                         JavaScript
                         
-BACKEND               : 
+**BACKEND**              : 
  
                         MYSQL Database
 
-**SERVERSIDE SCRIPTING**  : 
+**SERVERSIDE SCRIPTING** : 
 
                         PHP
 
-LOCAL SERVER USED     : 
+**LOCAL SERVER USED**    : 
 
                         XAMPP
