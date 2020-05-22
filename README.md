@@ -11,9 +11,13 @@ FRONTEND              :
 
                         3.BOOTSTRAP
                         
-CLIENTSIDE SCRIPTING  : JavaScript
+CLIENTSIDE SCRIPTING  : 
+        
+                        JavaScript
                         
-BACKEND               : MYSQL Database
+BACKEND               : 
+ 
+                        MYSQL Database
 
 SERVERSIDE SCRIPTING  : PHP
 
