@@ -19,6 +19,10 @@ BACKEND               :
  
                         MYSQL Database
 
-SERVERSIDE SCRIPTING  : PHP
+SERVERSIDE SCRIPTING  : 
 
-LOCAL SERVER USED     : XAMPP
+                        PHP
+
+LOCAL SERVER USED     : 
+
+                        XAMPP
