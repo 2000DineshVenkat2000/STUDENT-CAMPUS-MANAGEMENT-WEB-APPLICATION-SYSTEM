@@ -4,12 +4,14 @@
 TECHNOLOGY STACKS:-
 
 FRONTEND              : 1.HTML
+
                         2.CSS
+
                         3.BOOTSTRAP
                         
 CLIENTSIDE SCRIPTING  : JavaScript
                         
-BACKEND               : MYSQL Databas
+BACKEND               : MYSQL Database
 
 SERVERSIDE SCRIPTING  : PHP
 
